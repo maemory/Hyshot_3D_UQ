@@ -1,5 +1,6 @@
 # too large data files (for now)
 *.out
+*.plt
 
 # uncessary to keep
 *.tar
