@@ -1,3 +1,11 @@
+# too large data files (for now)
+*.out
+
+# uncessary to keep
+*.tar
+*.tar.gz
+tecplot.phy
+
 # Compiled Object files
 *.slo
 *.lo
