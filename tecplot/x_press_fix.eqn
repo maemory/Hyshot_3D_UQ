@@ -1,0 +1,6 @@
+#!MC 1200
+# Created by Tecplot 360 build 12.2.0.9077
+$!ALTERDATA 
+  EQUATION = '{X}={X}*1000 - 400'
+$!ALTERDATA 
+  EQUATION = '{press}={press}/100000'
