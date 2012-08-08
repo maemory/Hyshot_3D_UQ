@@ -6,6 +6,7 @@
 *.tar
 *.tar.gz
 tecplot.phy
+.DS_Store
 
 # Compiled Object files
 *.slo
